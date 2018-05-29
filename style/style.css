@@ -1,0 +1,16 @@
+.container img {
+	width: 300px;
+	height: 300px;
+}
+
+div[class*="col"] {
+    height: 700px;
+    width: 500px;
+    border: 1px solid white;
+    padding: 50px;
+}
+
+.container {
+	background-color: black;
+	color: grey;
+}
